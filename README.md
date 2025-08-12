@@ -9,14 +9,14 @@ GitHub y el desarrollo web.
 - CSS
 - GITHUB
 - GITHUBPAGES
-##### Link a la pagina: <p>https://ramicab1905.github.io/mi-portfolio-6to
-</p>
+##### Link a la pagina: https://ramicab1905.github.io/mi-portfolio-6to
+
 #### La estructura esta pensada de la siguiente manera
 - index.html: página principal con información personal y
 proyectos
 - style.css: estilos aplicados a la página
 - README.md: documentación del proyecto
-<p>Autor: Ramiro Camara
+Autor: Ramiro Camara
 Curso: 6to G - PROA
 Email: ramiro.camara@gmail.com
-</p>
+
