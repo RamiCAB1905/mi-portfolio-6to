@@ -17,7 +17,6 @@ proyectos
 - style.css: estilos aplicados a la página
 - README.md: documentación del proyecto
 #### Datos
-Autor: Ramiro Camara
-Curso: 6to G - PROA
-Email: ramiro.camara@gmail.com
-
+- Autor: Ramiro Camara
+- Curso: 6to G - PROA
+- Email: ramiro.camara@gmail.com
